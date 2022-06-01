@@ -1,7 +1,7 @@
 # y9000x-
 拯救者Y9000X 2020黑苹果OpenCore引导配置
 1. 硬件配置 硬件	型号
-CPU	Intel i7-9300H
+CPU	Intel i5-9300H
 显示器	fHD 1080p
 WiFi/蓝牙	Intel AX200
 黑苹果支持不完美，屏蔽前三后二总共五个引脚
